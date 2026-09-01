@@ -9,5 +9,6 @@ Code and commands from the YouTube series **The YouTube Machine** — how a face
 | 3 | [Free unlimited AI voice (edge-tts)](ep03-free-ai-voice/) | [watch](https://youtu.be/_mMB2d1cep4) |
 | 4 | [Free stock footage — 3 APIs](ep04-free-stock-footage/) | [watch](https://youtu.be/PVfTayA7jpE) |
 | 5 | [Whisper auto-sync — videos that edit themselves](ep05-auto-sync/) | [watch](https://youtu.be/EiRFwKAa6po) |
+| 6 | [Pop-word captions, timed by Whisper](ep06-pop-captions/) | [watch](https://youtu.be/Chu2dlfhOH8) |
 
-New episode daily. Next up: pop-word captions, burned automatically.
+New episode daily. Next up: thumbnails designed by code.

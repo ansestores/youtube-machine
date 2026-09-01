@@ -10,5 +10,6 @@ Code and commands from the YouTube series **The YouTube Machine** — how a face
 | 4 | [Free stock footage — 3 APIs](ep04-free-stock-footage/) | [watch](https://youtu.be/PVfTayA7jpE) |
 | 5 | [Whisper auto-sync — videos that edit themselves](ep05-auto-sync/) | [watch](https://youtu.be/EiRFwKAa6po) |
 | 6 | [Pop-word captions, timed by Whisper](ep06-pop-captions/) | [watch](https://youtu.be/Chu2dlfhOH8) |
+| 7 | [Thumbnails designed by code](ep07-auto-thumbnails/) | [watch](https://youtu.be/QE8cbQzQ9UI) |
 
-New episode daily. Next up: thumbnails designed by code.
+New episode daily. Next up: the upload API — videos that schedule themselves.

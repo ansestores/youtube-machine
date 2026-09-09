@@ -1,3 +1,7 @@
+# /// script
+# requires-python = ">=3.11"
+# dependencies = ["google-api-python-client","google-auth-oauthlib","google-auth-httplib2"]
+# ///
 """dupecheck — has this topic already been published?
 
 Written 2026-09-04 after proposing "Why Does Time Speed Up As You Get Older?" as a
@@ -6,8 +10,7 @@ topic-ledger.md as a numbered row and I read that as an unbuilt idea in the topi
 bank. The ledger is a note file; the CHANNEL is the fact. Never again decide
 "is this new?" from a local file.
 
-  uv run --with google-api-python-client --with google-auth-oauthlib \
-         --with google-auth-httplib2 python tools/dupecheck.py "Title one" "Title two"
+  uv run dupecheck.py "Title one" "Title two"
 
 Compares on content words, so wording differences do not hide a real duplicate
 ("Why Does Time Speed Up As You Get Older?" vs "Why Time Speeds Up As You Get Older").

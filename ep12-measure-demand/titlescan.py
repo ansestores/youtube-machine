@@ -17,8 +17,7 @@ v2 changes three things:
 Usage:  uv run titlescan.py phrases.txt
 """
 import statistics, sys, datetime as dt
-sys.path.insert(0,"/Users/hirenvadher/yshorts/uploader")
-from upload import get_service
+from auth import get_service
 
 MAX_SUBS  = 200_000   # ignore huge channels; we cannot learn from them
 MIN_SUBS  = 100       # below this, ratios explode meaninglessly

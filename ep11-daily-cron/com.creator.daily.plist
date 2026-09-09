@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- macOS: launchctl load ~/Library/LaunchAgents/com.creator.daily.plist -->
+<plist version="1.0"><dict>
+  <key>Label</key><string>com.creator.daily</string>
+  <key>ProgramArguments</key>
+  <array><string>/bin/bash</string><string>/Users/creator/yshorts/daily.sh</string></array>
+  <key>StartCalendarInterval</key>
+  <dict><key>Hour</key><integer>4</integer><key>Minute</key><integer>0</integer></dict>
+  <!-- if the Mac was asleep at 4am, run as soon as it wakes -->
+  <key>RunAtLoad</key><false/>
+  <key>StandardOutPath</key><string>/Users/creator/yshorts/logs/launchd.out</string>
+  <key>StandardErrorPath</key><string>/Users/creator/yshorts/logs/launchd.err</string>
+</dict></plist>

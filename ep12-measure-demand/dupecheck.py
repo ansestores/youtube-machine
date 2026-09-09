@@ -14,8 +14,7 @@ Compares on content words, so wording differences do not hide a real duplicate
 """
 import sys, re, json, unicodedata
 from pathlib import Path
-sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "uploader"))
-from upload import get_service
+from auth import get_service
 
 STOP = {"the","a","an","is","are","was","were","do","does","did","you","your","we",
         "our","it","its","in","on","of","to","for","and","or","but","that","this",

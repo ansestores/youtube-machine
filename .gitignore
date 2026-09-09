@@ -1,0 +1,16 @@
+# secrets — never commit
+client_secret.json
+token.json
+*.pem
+.env
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# local data
+*.db
+*.log
+.DS_Store

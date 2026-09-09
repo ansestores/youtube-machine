@@ -1,0 +1,18 @@
+[
+  {
+    "file": "out/monday.mp4",
+    "title": "Why Do We Hiccup? The 370-Million-Year-Old Answer",
+    "description": "Full explanation in 60 seconds.",
+    "tags": ["science", "facts", "biology"],
+    "publish_at": "2026-09-07T09:00:00-04:00",
+    "playlist": "Human Body Facts Explained"
+  },
+  {
+    "file": "out/tuesday.mp4",
+    "title": "What's Actually Inside a GPU?",
+    "description": "Full explanation in 60 seconds.",
+    "tags": ["gpu", "ai", "hardware"],
+    "publish_at": "2026-09-08T09:00:00-04:00",
+    "playlist": "AI & Hardware Explained"
+  }
+]

@@ -16,6 +16,7 @@ Code and commands from the YouTube series **The YouTube Machine** — how a face
 | 10 | [Pull your real analytics with Python](ep10-analytics/) | [watch](https://youtu.be/eh2MIhMlIa8) |
 | 11 | [Run the whole pipeline on a schedule](ep11-daily-cron/) | [watch](https://youtu.be/ME8ZX8JUUmE) |
 | 12 | [Measure search demand before you build](ep12-measure-demand/) | [watch](https://youtu.be/X3Bo5dpFB7o) |
+| 13 | [Engaged views — the free metric that beats views](ep13-engaged-views/) | daily |
 
 Plus [extras/subs_by_video.py](extras/) — which of your videos actually earned subscribers.
 

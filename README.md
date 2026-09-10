@@ -17,6 +17,7 @@ Code and commands from the YouTube series **The YouTube Machine** — how a face
 | 11 | [Run the whole pipeline on a schedule](ep11-daily-cron/) | [watch](https://youtu.be/ME8ZX8JUUmE) |
 | 12 | [Measure search demand before you build](ep12-measure-demand/) | [watch](https://youtu.be/X3Bo5dpFB7o) |
 | 13 | [Engaged views — the free metric that beats views](ep13-engaged-views/) | daily |
+| 14 | [How long a Short keeps getting views](ep14-short-lifespan/) | daily |
 
 Plus [extras/subs_by_video.py](extras/) — which of your videos actually earned subscribers.
 

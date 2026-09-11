@@ -18,6 +18,7 @@ Code and commands from the YouTube series **The YouTube Machine** — how a face
 | 12 | [Measure search demand before you build](ep12-measure-demand/) | [watch](https://youtu.be/X3Bo5dpFB7o) |
 | 13 | [Engaged views — the free metric that beats views](ep13-engaged-views/) | daily |
 | 14 | [How long a Short keeps getting views](ep14-short-lifespan/) | daily |
+| 15 | [Where your views actually come from (traffic sources)](ep15-traffic-sources/) | daily |
 
 Plus [extras/subs_by_video.py](extras/) — which of your videos actually earned subscribers.
 
